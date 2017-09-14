@@ -1,0 +1,33 @@
+{
+  "name": "angularjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp",
+    "production": "gulp --production"
+  },
+  "author": "Patrick Vianna",
+  "license": "ISC",
+  "dependencies": {
+    "admin-lte": "latest",
+    "angular": "latest",
+    "angular-animate": "latest",
+    "angular-toastr": "latest",
+    "@uirouter/angularjs": "latest",
+    "font-awesome": "latest"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "latest",
+    "fs-extra": "latest",
+    "gulp": "latest",
+    "gulp-babel": "latest",
+    "gulp-concat": "latest",
+    "gulp-htmlmin": "latest",
+    "gulp-uglify": "latest",
+    "gulp-uglifycss": "latest",
+    "gulp-util": "latest",
+    "gulp-watch": "latest",
+    "gulp-webserver": "latest"
+  }
+}
